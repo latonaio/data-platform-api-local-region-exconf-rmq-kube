@@ -1,0 +1,18 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"country": 201,
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"service_label": "ORDERS",
+	"LocalRegion": {
+		"LocalRegion": "13",
+		"Country": "JP"
+	},
+	"api_schema": "DPFMOrdersCreates",
+	"accepter": ["All"],
+	"order_id": null,
+	"deleted": false
+}
